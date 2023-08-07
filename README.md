@@ -1,3 +1,6 @@
+# WARNING
+This project is now merged with [TooltipTexture](https://modrinth.com/mod/tooltiptexture), please use it
+
 # TooltipTexture (Reforked)
 
 TooltipTexture Fabric and Forge port
